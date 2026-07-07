@@ -3,7 +3,7 @@
 ## Planned Tables
 
 - Users
-- | Column          | Type         | Description        |
+| Column          | Type         | Description        |
 | --------------- | ------------ | ------------------ |
 | Id              | UUID         | Primary Key        |
 | FirstName       | VARCHAR(100) | User's first name  |
