@@ -46,6 +46,8 @@
 - PropertyImages
 - PropertyTypes
 - Cities
+| Id     | UUID      | Primary Key |
+| Name     | VARCHAR(200)      | Name of City |
 - Areas
 - Favorites
 - Messages
